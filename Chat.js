@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     },
     "user_name": {
         "flex": 1,
-        "color": "hsl(274,100%,60%)",
+        "color": "#42b89a",
         "fontSize": 30,
         "marginTop": 5,
         "fontWeight": "400",
